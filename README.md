@@ -2,7 +2,7 @@
 
 Hi there!
 
-Program Sorting Algorithms Comparation, or SAC is my study project where I trained myself at coding using C++.
+Program Sorting Algorithms Comparation, or SAC is my home project at C++.
 
 By first look, this program is very simple, but it can be easily rebuilt into more powerful tool for sorting big amount of data from file, database or something else. It is not limited in data amount and can take as much as you want to give. In addition, it can compare which algorithm is better suited for your purposes.
 
