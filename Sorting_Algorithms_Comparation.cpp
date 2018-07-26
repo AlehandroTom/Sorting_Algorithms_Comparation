@@ -94,7 +94,7 @@ void InsertionSort2() {
 		VectorIndex = i; // recording index of the min value
 		for (int j = 0; j < TempVec.size() - 1; j++) { // internal cycle
 			if (min < TempVec[j]) {
-				min = TempVec[j]; // need to quit internal cycle
+				min = TempVec[j]; // The number found is now the smallest
 				// changing min value and bigger value places
 				VectorIndex = j;
 				TempInsert = TempVec[VectorIndex];
