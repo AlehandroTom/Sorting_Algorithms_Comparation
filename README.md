@@ -2,7 +2,7 @@
 
 Program Sorting Algorithms Comparation is my home project using C++.
 
-This program has a demonstration purposes and shows the difference in PCU time and iterations requred to process defferent sorting algorithms.
+This program has a demonstration purposes and shows the difference in PCU time and iterations requred to process different sorting algorithms.
 
 Program takes data from keyboard. To add number in an array write it down and press enter. You can add as many numbers as you want. To start sorting just press enter without writing any numbers.
 
