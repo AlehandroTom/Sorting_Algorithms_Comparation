@@ -1,14 +1,10 @@
 # Sorting_Algorithms_Comparation
 
-Hi there!
+Program Sorting Algorithms Comparation is my home project using C++.
 
-Program Sorting Algorithms Comparation, or SAC is my home project at C++.
+This program has a demonstration purposes and shows the difference in PCU time and iterations requred to process defferent sorting algorithms.
 
-By first look, this program is very simple, but it can be easily rebuilt into more powerful tool for sorting big amount of data from file, database or something else. It is not limited in data amount and can take as much as you want to give. In addition, it can compare which algorithm is better suited for your purposes.
-
-Let's take a look on what it can do.
-
-Program in that version takes data from keyboard. To add number in array to be sorted write it down and press enter, after that number will be added to the array. Add next number and the next... As many numbers as you want. To start sorting just press enter without writing any numbers and sorting will begin.
+Program takes data from keyboard. To add number in an array write it down and press enter. You can add as many numbers as you want. To start sorting just press enter without writing any numbers.
 
 Program sorts data by four algorithms.
 
