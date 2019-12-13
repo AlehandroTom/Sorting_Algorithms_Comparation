@@ -1,6 +1,6 @@
-# Sorting_Algorithms_Comparation
+# Sorting_Algorithms_Comparison
 
-Program Sorting Algorithms Comparation is my home project using C++.
+Program Sorting Algorithms Comparison is my home project using C++.
 
 This program has a demonstration purposes and shows the difference in PCU time and iterations requred to process different sorting algorithms.
 
